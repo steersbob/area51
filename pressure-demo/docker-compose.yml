@@ -1,0 +1,45 @@
+version: '3'
+
+services:
+
+  eventbus:
+    image: rabbitmq:alpine
+
+  influx:
+    image: influxdb:alpine
+    volumes:
+    - "./influxdb:/var/lib/influxdb"
+
+  history:
+    image: brewblox/brewblox-history:develop
+    depends_on:
+      - influx
+      - eventbus
+    labels:
+      - "traefik.port=5000"
+      - "traefik.frontend.rule=PathPrefix: /history"
+
+  device:
+    image: brewblox/brewblox-devcon-spark:feature-pressure-demo
+    privileged: true
+    depends_on:
+      - eventbus
+    command:
+      - "--device-id=3e0025000551353432383931"
+      - "--name=pressure"
+      - "--raw-data-file=/var/output/output.csv"
+      - "--calibration-voltage"
+    labels:
+      - "traefik.port=5000"
+      - "traefik.frontend.rule=PathPrefix: /pressure"
+    volumes:
+      - ${PWD}/output:/var/output
+
+  traefik:
+    image: traefik
+    command: -c /dev/null --api --docker --docker.domain=docker.localhost --logLevel=DEBUG
+    ports:
+      - "80:80"
+      - "8080:8080"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock

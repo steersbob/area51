@@ -1,0 +1,14 @@
+{
+    "id": "pancakes",
+    "type": 6,
+    "data": {
+        "settings": {
+            "address": "KP7p/ggAABc=",
+            "offset": 0
+        },
+        "state": {
+            "value": 12345,
+            "connected": true
+        }
+    }
+}

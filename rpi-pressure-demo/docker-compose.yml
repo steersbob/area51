@@ -1,0 +1,63 @@
+version: '3'
+
+services:
+
+  eventbus:
+    restart: always
+    image: rabbitmq
+
+  influx:
+    image: hypriot/rpi-influxdb
+    restart: always
+    volumes:
+    - "./influxdb:/var/lib/influxdb"
+
+  history:
+    image: brewblox/brewblox-history:rpi-develop
+    restart: always
+    depends_on:
+      - influx
+      - eventbus
+    labels:
+      - "traefik.port=5000"
+      - "traefik.frontend.rule=PathPrefix: /history"
+
+  device:
+    image: brewblox/brewblox-devcon-spark:rpi-feature-pressure-demo
+    restart: always
+    privileged: true
+    depends_on:
+      - eventbus
+    command:
+      - "--device-id=3e0025000551353432383931"
+      - "--name=pressure"
+      - "--raw-data-file=/var/output/output.csv"
+      - "--broadcast-interval=0.3"
+      # voltage
+      - "--calibration-voltage"
+      - "-4.688512282592881"
+      - "-4.807393316657185"
+      # sensitivity
+      - "--voltage-sensitivity"
+      - "-468851.2865805399"
+      - "-459340.85991038586"
+      # bits per mbar
+      - "--bits-per-mbar"
+      - "52429"
+    labels:
+      - "traefik.port=5000"
+      - "traefik.frontend.rule=PathPrefix: /pressure"
+    volumes:
+      - ${PWD}/output:/var/output
+      - /etc/timezone:/etc/timezone
+      - /etc/localtime:/etc/localtime
+
+  traefik:
+    image: traefik
+    restart: always
+    command: -c /dev/null --api --docker --docker.domain=docker.localhost --logLevel=DEBUG
+    ports:
+      - "80:80"
+      - "8080:8080"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
