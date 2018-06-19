@@ -1,0 +1,57 @@
+version: '3'
+
+services:
+
+  eventbus:
+    restart: always
+    image: rabbitmq
+
+  influx:
+    restart: always
+    image: hypriot/rpi-influxdb
+    # volumes:
+    # - "./influxdb:/var/lib/influxdb"
+
+  history:
+    restart: always
+    image: brewblox/brewblox-history:rpi-develop
+    depends_on:
+      - influx
+      - eventbus
+    labels:
+      - "traefik.port=5000"
+      - "traefik.frontend.rule=PathPrefix: /history"
+
+  game:
+    restart: always
+    image: kargathia/game-controller:rpi-feature-controller
+    privileged: true
+    depends_on:
+      - eventbus
+    labels:
+      - "traefik.port=5000"
+      - "traefik.frontend.rule=PathPrefix: /game"
+
+  ui:
+    restart: always
+    image: brewblox/brewblox-ui:rpi-latest
+    labels:
+      - "traefik.port=80"
+      - "traefik.frontend.rule=PathPrefix: /"
+
+  api:
+    restart: always
+    image: brewblox/brewblox-ui-api:rpi-latest
+    labels:
+      - "traefik.port=9090"
+      - "traefik.frontend.rule=PathPrefix: /api"
+
+  traefik:
+    restart: always
+    image: traefik
+    command: -c /dev/null --api --docker --docker.domain=docker.localhost --logLevel=DEBUG
+    ports:
+      - "80:80"
+      - "8080:8080"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
