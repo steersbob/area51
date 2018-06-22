@@ -1,0 +1,6 @@
+plug Rpi + laptop with ethernet
+edit connections
+wired 1 settings
+ipv4 -> shared to other computers
+ipv6 -> link local only
+sudo arp-scan -I enp2s0 --localnet

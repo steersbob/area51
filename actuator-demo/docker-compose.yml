@@ -19,14 +19,29 @@ services:
       - "traefik.port=5000"
       - "traefik.frontend.rule=PathPrefix: /history"
 
-  game:
+  game1:
     image: kargathia/game-controller:feature-controller
     privileged: true
     depends_on:
       - eventbus
     labels:
       - "traefik.port=5000"
-      - "traefik.frontend.rule=PathPrefix: /game"
+      - "traefik.frontend.rule=PathPrefix: /game1"
+    command:
+      - "--name=game1"
+      - "--controller-id=0"
+
+  game2:
+    image: kargathia/game-controller:feature-controller
+    privileged: true
+    depends_on:
+      - eventbus
+    labels:
+      - "traefik.port=5000"
+      - "traefik.frontend.rule=PathPrefix: /game2"
+    command:
+      - "--name=game2"
+      - "--controller-id=1"
 
   lamp:
     image: kargathia/actuator-demo:feature-demo
