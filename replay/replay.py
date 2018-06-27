@@ -37,13 +37,13 @@ def calculate_values(raw,
     pressure = compensated / bits_per_mbar
     height = pressure / (DENSITY * GRAVITY)
 
-    return dict(
-        raw=raw,
-        voltage=voltage,
-        compensated=compensated,
-        pressure=pressure,
-        height=height
-    )
+    return {
+        'raw': raw,
+        'voltage[V]': voltage,
+        'compensated': compensated,
+        'pressure[mbar]': pressure,
+        'height[cm]': height
+    }
 
 
 def from_measurement(measurement: Measurement) -> dict:
