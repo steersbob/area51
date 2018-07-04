@@ -6,7 +6,7 @@ After=network-online.target
 [Service]
 Type=simple
 User=pi
-WorkingDirectory=/home/pi
+WorkingDirectory=/home/pi/startup
 ExecStart=/bin/bash ./startup.sh
 
 [Install]
