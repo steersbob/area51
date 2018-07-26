@@ -1,3 +1,0 @@
-{
-  "query": "CREATE CONTINUOUS QUERY \"cq_basic_br\" ON \"brewblox\" BEGIN SELECT mean(*) INTO \"downsampled\".\"autogen\".:MEASUREMENT FROM /.*/ GROUP BY time(10s),* END"
-}

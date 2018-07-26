@@ -1,0 +1,63 @@
+version: '3'
+
+services:
+
+  eventbus:
+    image: rabbitmq:alpine
+
+  influx:
+    image: influxdb:alpine
+    # volumes:
+    # - "./influxdb:/var/lib/influxdb"
+
+  history:
+    image: brewblox/brewblox-history:develop
+    depends_on:
+      - influx
+      - eventbus
+    labels:
+      - "traefik.port=5000"
+      - "traefik.frontend.rule=PathPrefix: /history"
+
+  master:
+    image: brewblox/brewblox-devcon-spark:develop
+    depends_on:
+      - eventbus
+    labels:
+      - "traefik.port=5000"
+      - "traefik.frontend.rule=PathPrefix: /master"
+    command:
+      - "--name=master"
+      - "--simulation"
+
+  slave:
+    image: brewblox/brewblox-devcon-spark:develop
+    depends_on:
+      - eventbus
+    labels:
+      - "traefik.port=5000"
+      - "traefik.frontend.rule=PathPrefix: /slave"
+    command:
+      - "--name=slave"
+      - "--simulation"
+
+  ui:
+    image: brewblox/brewblox-ui
+    labels:
+      - "traefik.port=80"
+      - "traefik.frontend.rule=PathPrefix: /"
+
+  api:
+    image: brewblox/brewblox-ui-api
+    labels:
+      - "traefik.port=9090"
+      - "traefik.frontend.rule=PathPrefix: /api"
+
+  traefik:
+    image: traefik
+    command: -c /dev/null --api --docker --docker.domain=docker.localhost --logLevel=DEBUG
+    ports:
+      - "80:80"
+      - "8080:8080"
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock
