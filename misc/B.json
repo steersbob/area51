@@ -1,0 +1,2894 @@
+[
+  {
+    "DeviceUI": "0059AC00001AED5C",
+    "SensorID": "996ee171-d6b9-4d9e-8644-26a41838bfd6",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF2C",
+    "SensorID": "46718ff0-080f-4888-b55b-a1e20c091f7e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDDD",
+    "SensorID": "3f63b796-2a63-4709-8df7-44ac0453ed2b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDD7",
+    "SensorID": "8420701b-4e2f-41ad-950a-3c9d5882e995",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED55",
+    "SensorID": "98537506-1549-4d80-a84c-683c3673f102",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED8F",
+    "SensorID": "32b45bc7-3403-4641-9585-f8fcda455b33",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDE8",
+    "SensorID": "ca241daf-3961-47e3-b894-1893b4f932fe",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED29",
+    "SensorID": "85f73a44-b126-4ff6-875f-ba200f687bca",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF32",
+    "SensorID": "dd2e46d1-d903-48dd-a845-071bd12c5edc",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED1F",
+    "SensorID": "2f6b910c-e64f-49e6-8601-b7a47dbaa186",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF33",
+    "SensorID": "03156a4f-65c1-44f5-aa1c-bbc927b30a1c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF71",
+    "SensorID": "d929f95c-0fd9-4407-9d89-8b77c2a8ecf1",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF18",
+    "SensorID": "e17f66ee-4730-429f-97eb-ee89ce9ad467",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF8B",
+    "SensorID": "0bfc5c29-001c-4434-809a-8b5fa6e081dd",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE8C",
+    "SensorID": "2e665a0c-9b6e-4c81-9756-f609c7c04c61",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED31",
+    "SensorID": "8604b4c0-9b73-4476-aef2-2c38bdefc147",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFAD",
+    "SensorID": "6a5bbed9-6734-48dd-a695-1e7084a835b2",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED65",
+    "SensorID": "76b8b4f0-535d-4246-905b-757625a3df18",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFBD",
+    "SensorID": "02a09e76-3872-4445-8c3c-3972960f0fc4",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED8E",
+    "SensorID": "1bd79aa7-4fa6-4419-b272-c3d112ac7270",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF23",
+    "SensorID": "c5fe2f5f-fccd-4f5f-9288-de009e8bebc3",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDE0",
+    "SensorID": "38412d05-0f93-4238-ae96-6f5c24e69364",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDE5",
+    "SensorID": "1500662e-d0aa-4727-b4b8-cf3afd5b62c0",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF1D",
+    "SensorID": "146c715c-77c7-4305-a1e9-9ac866006fbe",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED7C",
+    "SensorID": "01346a25-4f79-4cb1-8ee3-a90c13c9ad65",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED72",
+    "SensorID": "741b2c72-e868-4f24-81a7-2f159914a7fe",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF25",
+    "SensorID": "75dddb87-6d71-4758-ab7b-e2f60d128a02",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFB2",
+    "SensorID": "9a117dc2-9176-424b-9b75-97aaa393ced3",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDD1",
+    "SensorID": "f23b651a-a96f-4503-b37f-2e1cb5d657c9",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED23",
+    "SensorID": "697123c0-6563-4791-bc85-2bf80cd0890c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFC4",
+    "SensorID": "1fb0cd99-d5f7-46b3-8639-c87d00fc7a58",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED66",
+    "SensorID": "ab123013-50ca-4ddf-bad0-551c7c5ba9ba",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED60",
+    "SensorID": "992ccb19-1aa0-46f7-9a15-df1b0235a5bc",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDCF",
+    "SensorID": "3c83cce7-b248-45e6-9db6-3c6d93965c9b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE3D",
+    "SensorID": "ee665240-dc46-4ebc-b6b4-8c105ebc0d42",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED20",
+    "SensorID": "bc492b5c-e5f2-4cab-a947-b946aff9cc0a",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDCE",
+    "SensorID": "b7c15e4f-3e84-449b-a054-05879eb9ce14",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED6D",
+    "SensorID": "30f296f6-a557-44a4-9118-fa13b70178c1",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED2B",
+    "SensorID": "fc00e6f9-2bd3-4b7f-953a-beccd5dd0d9c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE93",
+    "SensorID": "c1aedccf-c191-4791-a308-b961b4ae7621",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFC5",
+    "SensorID": "cec3d542-6664-41ef-ac49-e804d58cb1bb",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE8B",
+    "SensorID": "f8633dc4-dc78-47a4-990b-e3f487752035",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF86",
+    "SensorID": "a84314da-07a4-4613-bc76-a55e762ecbd1",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFBC",
+    "SensorID": "d02a8996-7e83-4a6d-8411-eccf7dc78989",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFC2",
+    "SensorID": "cf0b9e4d-7355-4ddb-8475-4703b8f84ccf",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF24",
+    "SensorID": "6c57609c-8a02-4462-80ea-5526176d6e64",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF1E",
+    "SensorID": "295b6f88-7555-43f8-8d35-ec3e0e1701d2",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDDE",
+    "SensorID": "fbf8afe1-ee27-4558-ad5b-b5584dea3e56",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED79",
+    "SensorID": "cfabe9bc-db8a-4476-a41b-2909920055e3",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED27",
+    "SensorID": "593387e7-18db-4709-b66e-4ac478e33dff",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED90",
+    "SensorID": "36742cf8-8638-45a7-bfb6-ad2459656943",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDE2",
+    "SensorID": "3a46f523-3b6d-45e4-8f1f-25b8e188fb05",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF73",
+    "SensorID": "4564d838-5f9e-482a-9643-ad5325b01c0c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF20",
+    "SensorID": "e230bca3-1ee6-4596-b865-3b5ed0650046",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED1B",
+    "SensorID": "a05de995-6ecc-4a0a-b686-f77fca90bc45",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDE9",
+    "SensorID": "6c717b92-a75b-445d-ad7c-c4a3d4d1652d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDDF",
+    "SensorID": "ea284dbb-b9b5-4d0b-93ee-9e4466ceef02",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFCA",
+    "SensorID": "8897fb5b-eadc-4ad9-935d-890708570ec8",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFB3",
+    "SensorID": "428d8c02-a6a1-4f2d-b759-6a5d2c225726",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE85",
+    "SensorID": "e168427e-4092-49ad-b892-916a8951fa67",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF76",
+    "SensorID": "3de82fc0-9da0-487d-9c2a-e67a9bad2f19",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED6B",
+    "SensorID": "a2dd719a-f28a-4b08-94ad-994225efe867",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDDA",
+    "SensorID": "b4343668-287b-4398-9e58-e79e26f78b1f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED19",
+    "SensorID": "cc6d60f6-312c-4f7e-aeb1-b11d4512a3db",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDE7",
+    "SensorID": "5591c1c6-e2cb-4b75-9cb1-a76b9d929ecd",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED28",
+    "SensorID": "7539b88c-269a-4543-b232-23c59396639a",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED32",
+    "SensorID": "ec4919c8-6335-4361-b950-e895cc1ae795",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED6F",
+    "SensorID": "5e53ec51-f717-484d-9122-6c15603782fb",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFC8",
+    "SensorID": "58da70d4-5c3a-4d3a-9fde-4c4d00fd6360",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED70",
+    "SensorID": "7fef284b-7944-44ec-bdae-3201403ed311",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFB1",
+    "SensorID": "aaa0dcd0-53e8-4541-91b7-e202041d8d57",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF2E",
+    "SensorID": "94ec31aa-dd49-4911-a8b2-c2fd1b55e147",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED77",
+    "SensorID": "3cdf7dfd-3a1a-4b3c-a118-f41f0add3d2b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED2C",
+    "SensorID": "c287240a-1565-490f-810d-f13d9080c983",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFBF",
+    "SensorID": "2374f4fe-8b70-4b10-9a15-7e7675615871",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFB5",
+    "SensorID": "e61ef176-03a0-45c1-ab18-4a6a96cff974",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED78",
+    "SensorID": "1f230b75-3b00-44b8-a443-2ac767e2670a",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF17",
+    "SensorID": "2b315ecd-31a6-4649-880a-16ef23f36764",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED30",
+    "SensorID": "7eff7357-e044-4697-b7ab-50bb394a4002",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE86",
+    "SensorID": "3f3cd950-aac0-49de-8e41-d1eace54a06b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED6A",
+    "SensorID": "96e45e3e-54be-412d-9dfb-e7692943a2dc",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED63",
+    "SensorID": "d671460b-3103-49e2-a488-3ebad641b637",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED5D",
+    "SensorID": "1da77ad2-fe18-4139-96a6-45092589b7a2",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED85",
+    "SensorID": "9fd6d92b-3253-40b9-9d4c-7aa44cdd1829",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFAE",
+    "SensorID": "7fb1b4bb-b84b-454d-ba4f-3b33b6d3c4c0",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF19",
+    "SensorID": "ef84cf92-25ec-4d18-9651-8137a6669b32",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF29",
+    "SensorID": "974c6af3-7caa-4289-bca1-61426dfca8b5",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFBE",
+    "SensorID": "86b6ffaf-90e9-471c-8de9-7cc758c171ee",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED33",
+    "SensorID": "9bfe735b-c8e0-41ee-a6e3-26cf27b90a9f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF2D",
+    "SensorID": "a505eb47-3fdb-4e4c-a41c-811a41e4b244",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE96",
+    "SensorID": "632cd31c-9bf1-45e4-bd61-cd1e59343b49",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED74",
+    "SensorID": "197b5ac9-69a6-4056-85ff-e8597792a6f1",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED6E",
+    "SensorID": "8576c019-d250-4a64-8ba0-8efe3466171b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF28",
+    "SensorID": "64cc317e-5407-41e0-b55b-0f3cc16c239b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED36",
+    "SensorID": "87c7b038-8406-479e-b6e0-2d179e80802e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDCD",
+    "SensorID": "aed89a5e-1370-495e-ae03-80e015342694",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF7B",
+    "SensorID": "60af0a3f-a3cc-408c-8380-b17483730a48",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED84",
+    "SensorID": "3d9109aa-cb00-4b00-b680-29e2008ebe09",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFC9",
+    "SensorID": "3d0ada57-8cfd-41cc-bff1-a5284effaeb5",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED2E",
+    "SensorID": "a1bbefdf-4183-49b0-b580-3a0a9623c2eb",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFC1",
+    "SensorID": "0ab97086-4353-4627-9bf5-0190f321182d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE81",
+    "SensorID": "45a8dc50-9a78-47e8-886e-477596ac0633",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF31",
+    "SensorID": "747f7c72-b00e-4a61-aa0a-9f88ad1aac80",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDD5",
+    "SensorID": "c5d0f187-408c-4b82-8260-8c8c3c52e590",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF81",
+    "SensorID": "acfac600-61e7-46e4-9355-59e7350d0a9d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED68",
+    "SensorID": "dc48d23c-6feb-44d3-baa4-94a543b26772",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF83",
+    "SensorID": "9a50c376-77a2-4a0b-b7b9-02413ab54367",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF7F",
+    "SensorID": "80224325-af3f-469d-8cda-0e236596695e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF8E",
+    "SensorID": "6c88c769-63e2-46ef-8a7e-1b7505886fe6",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE99",
+    "SensorID": "c1e9dd2c-044a-45d4-a835-7541f5d3cfba",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED5B",
+    "SensorID": "bb8bdb60-fff7-4b94-a27a-8d08c0eb2995",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE9C",
+    "SensorID": "6e9cd639-3bd1-4be4-a2dd-f75db72b0769",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED21",
+    "SensorID": "f7237152-940f-454b-9d34-ea9f854e9d51",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED83",
+    "SensorID": "df8b2c8a-0317-4d21-9dfd-c5b9e6c57e95",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF2B",
+    "SensorID": "8468e848-ed4d-4154-ab13-ce39d59c5816",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFC6",
+    "SensorID": "1dc8b8fa-0982-4563-b808-43f264257c86",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED5E",
+    "SensorID": "ba787d7c-6b00-4585-950d-d633f64a7d30",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE9D",
+    "SensorID": "4bf0476a-4bf7-400e-b7d2-aa433a962c0b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDD0",
+    "SensorID": "753158c7-2ff7-4f83-b7cb-16c8a5155671",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE98",
+    "SensorID": "16f5a0fc-c2e8-4106-93e9-c0d5d0be18e3",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF30",
+    "SensorID": "f6603886-711b-489e-b324-c8c5a5f972ac",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDD8",
+    "SensorID": "b0fd0f87-fb9d-4f97-9470-3756bded7a71",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED82",
+    "SensorID": "afbdab72-b24e-43a6-9de8-325fc5bfde0b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF72",
+    "SensorID": "ace0919b-e01d-479b-8d7f-f0eb0197b299",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE44",
+    "SensorID": "af7e1edc-bf50-4020-9f84-dc465371699f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED71",
+    "SensorID": "3d922fc6-ba6e-44d1-97de-c7d797d97d02",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED73",
+    "SensorID": "6395d412-bcd6-4e9b-8d9a-d84222e27bfa",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFC7",
+    "SensorID": "55c99fd2-1a9e-441b-aa19-6f122cce661f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFBA",
+    "SensorID": "95fac73a-3e94-4be5-aab0-3e5e1d8588d4",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFB8",
+    "SensorID": "0c307f83-1ec9-4e8f-9fa8-f8c8c9a0438e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED8C",
+    "SensorID": "4d944be7-c07a-4b0c-8044-fcd66cc0e538",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFB9",
+    "SensorID": "9ebe84ce-63f4-4d5b-ac43-1d95cce2a403",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF7A",
+    "SensorID": "44150d83-965b-4bc4-8a91-1e3758de255d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF1C",
+    "SensorID": "400b5967-c9c3-4711-9d93-c7dc2fd7a58a",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED7B",
+    "SensorID": "1933e598-48ca-4535-a4c4-0c3442885c70",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDD3",
+    "SensorID": "113f7ee6-7768-48a5-946e-8493ae1a4747",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDD6",
+    "SensorID": "3645f7de-7061-4cdf-ab87-098d023c44f8",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDDB",
+    "SensorID": "d32b50e2-ea23-47b1-8a50-681719f51bf8",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE42",
+    "SensorID": "840bac33-e7f0-4d59-8530-69244345e8f7",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED26",
+    "SensorID": "e3750399-39fa-4d4b-837f-26be20fa7ad8",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDE6",
+    "SensorID": "5a58ef6f-d38c-436d-95a2-d021613badff",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED76",
+    "SensorID": "f5a08522-7450-4e9a-beed-229274fbe968",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED59",
+    "SensorID": "1d8ed650-f547-4146-bfee-da028607d249",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF27",
+    "SensorID": "b1c304cc-96ad-4a99-b3f2-843939e36548",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF80",
+    "SensorID": "819fc426-eec5-4307-938d-7fa950376466",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED7A",
+    "SensorID": "498da1a5-e7f8-4833-9d80-e6e1f9b0edfc",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED58",
+    "SensorID": "4a6d5db9-c1a0-4d6c-a881-77084d52ae69",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF1F",
+    "SensorID": "a8d5ee80-6e6d-4ac5-8def-e5a272bf159a",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDE4",
+    "SensorID": "0ed9904a-1a27-4c82-8833-78539b36112d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED2F",
+    "SensorID": "0065d30d-dd41-47db-9e04-7c0b4a96608d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED24",
+    "SensorID": "2cf1db68-0e9e-4922-a1a5-ae63d133acfe",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE8F",
+    "SensorID": "20d47606-b021-45d5-b474-b83315cc6c69",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED1A",
+    "SensorID": "c62475f1-9eed-4389-8542-046605e5d385",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF2F",
+    "SensorID": "aebfe689-9e80-4195-ad3a-784c75c0b002",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED80",
+    "SensorID": "0287c6d3-7348-46c4-ba67-e76b7f4e6cf6",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED62",
+    "SensorID": "c497340e-8c55-440c-96ff-f5a10fb2b81c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED1C",
+    "SensorID": "156a8560-d45c-41f5-9625-8241d9b071b9",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFB0",
+    "SensorID": "b5e5c649-6959-49c6-a641-6fc227785806",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED22",
+    "SensorID": "d05dbd92-607b-4790-89eb-ff44bdadb642",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED1E",
+    "SensorID": "966b9c29-841b-4e12-a755-06e7ec74784b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF34",
+    "SensorID": "5833142d-0a02-4cb2-8333-f644ef5d1d55",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFB4",
+    "SensorID": "6705ed63-e812-4df2-9274-ea10d9804c16",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED5F",
+    "SensorID": "ecd8968b-51e5-439a-9b15-f915d9cdfb36",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF22",
+    "SensorID": "1e3b3189-d2db-4e0e-9b0a-d4aa347ee978",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDE3",
+    "SensorID": "ed4f066f-86ee-4657-8fc2-e4563c022a6d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF1B",
+    "SensorID": "654c8d2e-c861-465c-b196-2938b8023868",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED5A",
+    "SensorID": "5377f308-d25a-482e-beab-c1a9cbf4be9b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFB6",
+    "SensorID": "a8f71505-5699-4acc-98b1-f3e2eedeb9d0",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF1A",
+    "SensorID": "c84ecf34-38fe-4cb0-b380-1937c8ef6a9b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE3F",
+    "SensorID": "d860f326-c83a-4361-9520-72fb4e6516f5",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED6C",
+    "SensorID": "2a868c4f-abc7-450d-acbb-068892bf7bd5",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF26",
+    "SensorID": "e7d3a8c4-cfb8-4ade-afdc-39063abf26b3",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF88",
+    "SensorID": "5420a915-b551-4f68-9677-3b0e6d8fa9d0",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF2A",
+    "SensorID": "de3568db-e88b-4c18-b590-7006e9a87a18",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFB7",
+    "SensorID": "f5d5cd8c-aeb9-41eb-96d5-9801fbff7a1c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDEA",
+    "SensorID": "6beaaa20-3ade-4322-aa53-941c256ce422",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED2A",
+    "SensorID": "abbf66e9-a678-46a3-8a89-1150e3ee03f5",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFC3",
+    "SensorID": "b4342c6d-f517-440d-891e-2e2d9e13b96f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED56",
+    "SensorID": "c31f28fa-3cae-4c3d-b93f-531db4b14807",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF21",
+    "SensorID": "f0a29024-45ac-45e6-a7d9-fd2a5baf9f98",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFBB",
+    "SensorID": "50107344-79d4-436d-8972-24a503d7fd7b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED64",
+    "SensorID": "78f85226-34f6-407a-be9d-8abe3ffe4285",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED7E",
+    "SensorID": "e3f74c14-55ba-4432-89b8-0e94887e54d3",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED75",
+    "SensorID": "90faa4ff-691d-4263-b31f-e336ddc86b4f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF85",
+    "SensorID": "a4916398-5c6d-483a-bb0b-dd26808d9977",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE92",
+    "SensorID": "f4ae68b6-c843-4712-a5f0-c97d7b1fc274",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED57",
+    "SensorID": "62386345-cf20-41d9-b14e-9b27d85965b1",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED61",
+    "SensorID": "a389c9ec-1e83-4164-89e2-63246dfe4371",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE9E",
+    "SensorID": "1960e20d-2961-443d-82ac-62d784f6dcd2",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDD2",
+    "SensorID": "d2108364-36fe-42cf-b355-0a02eb1086ca",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED87",
+    "SensorID": "f6f2bb29-9cfa-44f6-9538-25aeb5e02989",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED2D",
+    "SensorID": "1a7d1b68-35c0-49d6-9af7-65349ab6ef7e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED67",
+    "SensorID": "06e701b7-254b-4e96-adeb-6423293c84aa",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFC0",
+    "SensorID": "30fbbdb2-6da8-421b-9d9e-3c545379c06d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEAE9",
+    "SensorID": "05b4c837-5abb-437e-b23b-5118243c289a",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEAEB",
+    "SensorID": "643fb397-f81f-414b-bd4b-72d159fbb99f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEAEF",
+    "SensorID": "cede04b6-5c8e-4f8c-8616-119e502668d5",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEADE",
+    "SensorID": "05fe5465-780a-4869-a2bd-19bdd8847ea9",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEAF2",
+    "SensorID": "eef1c744-c590-4698-a78e-190faeb29364",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEAF3",
+    "SensorID": "ea143c33-2e57-4dcf-9996-e1655879c20b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEAF7",
+    "SensorID": "cca6126d-6f11-44da-be6a-7f86bda02747",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEAF4",
+    "SensorID": "8b4fe207-f42e-498b-8dda-8f1af311092f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEAF6",
+    "SensorID": "02b3b954-6192-4d9b-aedb-61d065a560fb",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AF2D5",
+    "SensorID": "c57eb4c5-559d-4adc-a468-891ae83ed3b1",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEAEE",
+    "SensorID": "8e6c18b6-1ba9-47a0-a4cb-012defa7f97d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEAFF",
+    "SensorID": "828b0719-e173-48f2-9fea-378e3fa79524",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED52",
+    "SensorID": "e91139bc-d555-4340-b4a5-4292bcc0095f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED3A",
+    "SensorID": "3f71c226-084f-4045-9bcc-110ead8d1402",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF74",
+    "SensorID": "aba5e82c-ef13-414e-a457-e374d3943f8b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED3D",
+    "SensorID": "2202166d-c446-4e51-8560-88163a63407a",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDA3",
+    "SensorID": "0e14a4ff-94b6-450b-8708-6364f4dc93c6",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED9A",
+    "SensorID": "9582293e-2052-4fb2-8120-3fe69ed36ff9",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED9C",
+    "SensorID": "378ed2ea-bddf-4eb1-8826-74c2619dfd8e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED9D",
+    "SensorID": "e5dcff0d-9a57-422d-83e7-8759377ff350",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED99",
+    "SensorID": "6386f2a6-ec67-4d43-927e-6fed45e7024c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE47",
+    "SensorID": "d58245b4-ccf1-41d1-9cbd-1b99cb62e255",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED3F",
+    "SensorID": "bc400ad7-67b5-49d5-905c-60b4084f585c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE53",
+    "SensorID": "8a27fb4d-0826-41e7-aa1b-54ec1a8e1877",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE58",
+    "SensorID": "bf4d7edb-8cea-4047-bb78-7851769ba0e9",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF89",
+    "SensorID": "f0077229-b3de-404e-a005-deeee043db2e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED40",
+    "SensorID": "760e1ad5-981a-408e-adff-cff816305691",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED9E",
+    "SensorID": "51f61c12-3761-459b-b627-a6f3a32f13cc",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED93",
+    "SensorID": "e5951a42-3702-42f8-901c-343690065ff5",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF53",
+    "SensorID": "80370392-a785-4d84-a585-5fb8ea9c5185",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE55",
+    "SensorID": "a339b4dc-f10c-4022-a9a0-d79d9c6a255c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED95",
+    "SensorID": "c6a5334f-ac16-4c33-a4f1-39ab28edcb03",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED4F",
+    "SensorID": "4192e608-4c31-45cb-b1e5-1a36e107112e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED44",
+    "SensorID": "0b2ffe71-bb92-4275-86ab-eb5d975953c2",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE3E",
+    "SensorID": "2f6f2004-d152-4cbd-b530-2e6e3ce1521e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF55",
+    "SensorID": "73e30d66-c7c1-46a4-b108-6cd163a35630",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE50",
+    "SensorID": "48898f47-c0e8-4c1d-82cb-e91eca0b4615",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF79",
+    "SensorID": "7ff56af1-c5a8-4751-82c7-b6a1ec9242c8",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF67",
+    "SensorID": "88533081-c32f-4f6f-862a-ff292912288b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF70",
+    "SensorID": "9d464149-ad6d-47c1-b0da-ccee5fa0265a",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED50",
+    "SensorID": "dca70b98-0f30-4df0-bc11-66dec2839954",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF60",
+    "SensorID": "4dd793ee-4c3a-443b-8bb4-45a644de02a9",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDA2",
+    "SensorID": "5c2384e1-c2b8-4f76-a519-5b4ae65b36dd",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDA7",
+    "SensorID": "45dfc091-0921-42dd-83a8-777ab429e050",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED9F",
+    "SensorID": "f33f36d4-94ab-4fd9-9999-93628907e8bf",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF5F",
+    "SensorID": "2bb3bc64-a350-47ea-9604-63020bb7a097",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF56",
+    "SensorID": "45e618f1-bc91-4ab5-97d3-8fea523428d6",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE4B",
+    "SensorID": "fd2548da-4145-4f78-b3a7-ea87eb13f077",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED94",
+    "SensorID": "78ee845f-5f4c-47bc-b186-4428faf1e96d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED47",
+    "SensorID": "2858d480-285c-472c-ae35-e316d57857e9",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF6B",
+    "SensorID": "e6350d18-b909-44a3-a723-86ecb65ef172",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF5A",
+    "SensorID": "f3b24907-80c9-4318-8a94-9bf49749bcce",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED53",
+    "SensorID": "b07a705d-b829-4fa6-aec9-364fc9b299a5",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED92",
+    "SensorID": "c1b35ddb-567d-4303-800d-cef5d798f456",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED41",
+    "SensorID": "4de9e945-909f-414d-b504-ee483bf5486f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF61",
+    "SensorID": "898b2e2b-73b1-47bd-a8c3-06d6013ccdb0",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF57",
+    "SensorID": "5b5cc233-4922-4084-8b1b-ca347ed1bc09",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED39",
+    "SensorID": "39914668-30ce-46fd-8e32-42185f3a3aea",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF5C",
+    "SensorID": "c4f004d9-a557-4611-b57d-3051e5b000de",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF7E",
+    "SensorID": "2a6161f1-4421-4778-af75-a636b209fc89",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED48",
+    "SensorID": "e8e5c8e6-d7a9-4b43-b8e4-0b7e36bdf1d1",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF75",
+    "SensorID": "35ac9915-4570-4644-bf0c-6462f69c5ebc",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE60",
+    "SensorID": "45f1ef55-c542-49a3-9e52-4813004b10b7",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED46",
+    "SensorID": "88f8ad70-ff69-4a94-a737-ad5504512f33",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDA4",
+    "SensorID": "4b04140e-a736-45a4-bacd-7b9185868cb7",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE5F",
+    "SensorID": "f4b8e5e8-3077-4ffe-930a-a15ab541a891",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED3E",
+    "SensorID": "254fa507-f391-4d45-9546-94317e789d20",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF64",
+    "SensorID": "70ec2a00-63a5-4933-8afc-a486b8780de7",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF77",
+    "SensorID": "caa87feb-60a6-40e2-9ce6-d99c1d0ffb3e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED3C",
+    "SensorID": "3eb73a51-a235-45f2-b346-a46373db6019",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDAA",
+    "SensorID": "c19e3ed2-db4c-4d1d-ab2d-15f0d79dea0c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF7D",
+    "SensorID": "80b0c9b4-7006-42e6-809f-90023071ae59",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE46",
+    "SensorID": "ee9ebfde-c827-4b99-ace6-4f23665e9dbb",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE4A",
+    "SensorID": "759153c2-4979-40ea-8808-2755a221117f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDA5",
+    "SensorID": "856e0fbc-0955-46d2-bada-693e39bad6ac",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF5D",
+    "SensorID": "6319ea85-f95f-4c7f-8273-521ae0be6c41",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF59",
+    "SensorID": "3d6069d6-c417-4644-9402-d40099e5236e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDAC",
+    "SensorID": "0a60b35d-238b-4069-a9e8-2f8def50a443",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED4D",
+    "SensorID": "690c124a-0bc0-457f-86aa-dc85def3cb58",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED91",
+    "SensorID": "61d71b67-b5f5-425f-88ee-a504777970ed",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF5E",
+    "SensorID": "b2f6a5cf-0288-4d9f-90aa-ab7f85f60661",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED38",
+    "SensorID": "c61cb629-b891-4181-a3a2-d48af686a070",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF63",
+    "SensorID": "1f61c96c-5acc-4dc3-b671-b3f56b1f1174",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE4F",
+    "SensorID": "d3e9d591-7ddd-4ec1-be5a-efb27f0b2a76",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF7C",
+    "SensorID": "92f7a84f-ae82-4fc9-afd7-00be9a6b6db1",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDAE",
+    "SensorID": "25c1e0c1-23bc-4b74-b159-c8f0e1cbb334",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF8D",
+    "SensorID": "2a7bc368-c679-4388-b76d-32c38f99bffe",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF54",
+    "SensorID": "7a0d7ce1-5498-406b-b82f-579a5f32dd75",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF5B",
+    "SensorID": "3f7d3c92-6ccc-4e8f-a21b-e896b2bf96c1",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE54",
+    "SensorID": "f557d906-3240-4930-a802-fe1f2bb5db70",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE3A",
+    "SensorID": "6d94c6ae-5f4c-4b67-b9f5-933cb6587869",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDAD",
+    "SensorID": "06a0ff63-60a4-4105-bd16-3798c0a177cf",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED96",
+    "SensorID": "7c1be99e-08b4-4f11-8862-070817d20ffc",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF78",
+    "SensorID": "5dd89907-4b8f-4773-8018-f62b09c7814c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE49",
+    "SensorID": "b09d610c-566c-4224-b70f-7f46b2179a5e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF65",
+    "SensorID": "6464b0c8-2146-4387-8d15-1d625ab64993",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED45",
+    "SensorID": "7b2b268d-2705-48e8-86fe-1eb59bceefe4",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED51",
+    "SensorID": "21b3cbc5-ff1a-4cb1-ad60-a260bbf1c8b9",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF6F",
+    "SensorID": "0096dbf1-1d4b-41f3-b1e4-16adb3ae9043",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED43",
+    "SensorID": "0352f0f8-c5fd-4df9-b030-222086325d1a",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED4C",
+    "SensorID": "c501ea58-3a4a-47d8-b974-88104b876420",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED4A",
+    "SensorID": "36aa9d65-4dca-4d1d-a6c7-ae9730a97cc6",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDA0",
+    "SensorID": "133dee80-12bc-4b4f-bfe7-08a3c18a120d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED54",
+    "SensorID": "f8297e67-491f-4025-b977-f438a91ef4f3",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED42",
+    "SensorID": "bec304ab-e73e-428f-845c-df986fde1d6e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF6D",
+    "SensorID": "1c453ca1-4ea0-458c-8eb0-5a59e5b33bcc",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDAB",
+    "SensorID": "c23a0930-a7cf-4794-8d29-a3dc2b15b30c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDA6",
+    "SensorID": "3f7c1469-e36d-4c54-b0e1-2542515922c4",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED9B",
+    "SensorID": "0f9e7f4b-328f-4d3b-8e54-8b50d9ff4277",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE4D",
+    "SensorID": "bd6bdcaa-8045-4cbc-be7d-557bbd7ace60",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF68",
+    "SensorID": "22def41f-2504-4ee6-a35b-f67089f2cc71",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF8A",
+    "SensorID": "cd5fb47a-35d5-45b4-80f9-0d84c9115884",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED3B",
+    "SensorID": "2e649a3c-7080-48d9-92c4-76b16a3f4f39",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF62",
+    "SensorID": "58c4c99d-b556-49d0-91bd-ed2d65f57c86",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED49",
+    "SensorID": "74c3cd51-ae2a-4155-b69e-040887273848",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE4C",
+    "SensorID": "909adeca-39d1-42ed-a0a2-bf70d45e2cc3",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDA8",
+    "SensorID": "f13d3c87-339a-4ef0-b97c-a675f3d49e73",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF82",
+    "SensorID": "c3d440fe-3aca-474a-b484-c06ce0621890",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF87",
+    "SensorID": "d89cbef8-7672-4236-a103-50a54914a0e9",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE45",
+    "SensorID": "fb9c29e8-1b7b-48aa-9a3b-3267bbef8d35",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF6A",
+    "SensorID": "01905b91-a185-4765-8e69-36f4eea610fe",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDA1",
+    "SensorID": "436d8497-6042-4d4b-ab66-11462fa49ef2",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF66",
+    "SensorID": "5f26835e-d126-4da4-822f-acadd68c1faa",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED4E",
+    "SensorID": "885be9de-493b-4041-a58a-4af6f2726be8",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF58",
+    "SensorID": "406d1d52-52bc-4e93-9418-90f01077deda",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED97",
+    "SensorID": "1e7a8054-303d-4f06-9a9b-bdec0e5fea10",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF6C",
+    "SensorID": "e2d28ac8-0853-41f0-b324-1a1ab6e21a2b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF6E",
+    "SensorID": "5d598127-905d-4495-bfd9-a6a211b167b2",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED4B",
+    "SensorID": "bc3c96b9-54ab-4a4c-a7c8-b9c52c6e0c74",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF8C",
+    "SensorID": "d2b6a66b-f98a-4274-b7f8-05a2e6e36413",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED37",
+    "SensorID": "be3c5a95-f1ca-4860-80c6-56f4acdc2d19",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDA9",
+    "SensorID": "4d074702-bfb0-45c3-a559-4a43e14de042",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AED98",
+    "SensorID": "7cc34109-ea72-42c4-b49a-d779bb41243c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF4B",
+    "SensorID": "e4d7ecd5-1e71-4114-8f3f-3b0c3dd10c20",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEB5",
+    "SensorID": "c0f24ec7-8286-4da0-b905-ee7936cd8004",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEAC",
+    "SensorID": "e8578b7c-660b-4b9b-a8f4-105a0cdc9e35",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFEE",
+    "SensorID": "f86602a0-40c9-45e1-8958-cca50f34dbe4",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEB2",
+    "SensorID": "f3f2bd84-8701-4a88-8c06-d3aff2c3119b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDC3",
+    "SensorID": "76ba8206-c58f-40da-8e1a-8ddfc5f02ef8",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEAA",
+    "SensorID": "441f7de7-437c-4b61-a5b5-757fa6626326",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEB1",
+    "SensorID": "b01357b3-f4ab-475a-8252-8afa7046def1",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF40",
+    "SensorID": "49649723-e2b2-40a5-9c11-423a6984511a",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDB8",
+    "SensorID": "66dd0e04-b487-401c-b82b-c185ff723847",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF3E",
+    "SensorID": "998ea316-9859-472e-aacf-a9fa27af62c2",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEB9",
+    "SensorID": "1adbc0fc-fcc1-41be-81a3-5dc889ce8755",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDC4",
+    "SensorID": "21975661-f930-4416-8f2a-8e7ca00d59ec",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDBA",
+    "SensorID": "6dd01d12-489b-4e70-b391-da4d2118687b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDB9",
+    "SensorID": "4f788821-e547-4cfc-8e53-fbf3f7c7d88a",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF4C",
+    "SensorID": "257daa18-85bd-4195-8640-485de6331d79",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF50",
+    "SensorID": "d4d41b63-79a4-4837-9d35-342b684aaedc",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDB7",
+    "SensorID": "9b22efc0-5465-4175-aa32-e83b9374448c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF41",
+    "SensorID": "8711463a-71af-44f9-a382-a53b59fd62e8",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDB2",
+    "SensorID": "b89dab5d-0e67-4e57-85e9-6efa11b4d7a2",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF48",
+    "SensorID": "a8094c9d-d478-45f8-b8bb-2d75ac76f55e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFEA",
+    "SensorID": "a3e9b93a-ddd3-416e-8d23-64d00d753bb8",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEB0",
+    "SensorID": "c8784693-674c-4ff4-8459-9304977bf6ee",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEB7",
+    "SensorID": "1c542355-b556-4571-86de-0987342a88ab",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF47",
+    "SensorID": "98cddd16-594b-4967-ac1f-fc2815fbb094",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEB3",
+    "SensorID": "55362658-9a1d-47a8-8374-44ca5f5476f2",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDB4",
+    "SensorID": "129d0fde-33f8-419d-b415-4bfb11d9e57f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEB6",
+    "SensorID": "e8c45467-82cb-45e8-b813-13a2dae5bdb6",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEBA",
+    "SensorID": "34e39785-8e96-4d54-b60d-481de2b5c377",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF43",
+    "SensorID": "e8df43e5-8373-468d-b937-6472da513fae",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDC2",
+    "SensorID": "05509629-9035-4d04-8b3d-5ba93280ba9d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDC0",
+    "SensorID": "2d5581e4-d0c3-4d1c-b269-723e9cbfae98",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDBF",
+    "SensorID": "467a29be-ac53-4d99-b01b-3fb604353f94",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEAB",
+    "SensorID": "3bb54097-56f9-4335-ad4a-9f08ad8e2981",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEA9",
+    "SensorID": "e5933d55-4206-4bf4-8a3a-bac661737fcd",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF3A",
+    "SensorID": "6a3c86d3-5c9d-46d6-b95d-c44fb356c17d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF37",
+    "SensorID": "72997df4-135a-4e98-a9f9-29e4f3e0b0e5",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFEF",
+    "SensorID": "41d4ae55-83a8-4f61-9980-fca0fceacc6d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDAF",
+    "SensorID": "24abe960-191c-4483-b5c8-76da159739aa",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEAF",
+    "SensorID": "838130d8-a139-494c-a564-b2833838da19",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFF0",
+    "SensorID": "a25a4038-12e9-40bd-933a-b053fdc78211",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDB1",
+    "SensorID": "5ab86b5a-2828-4d95-8501-8772b5bb0834",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF49",
+    "SensorID": "3a5f36cf-b67b-4a82-bc62-9e13715dd185",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF3C",
+    "SensorID": "e81f7761-d267-4e54-88ce-0c296dd52c88",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF3F",
+    "SensorID": "269602ca-62c5-43b3-b399-6d3c767b6726",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEAD",
+    "SensorID": "ce4492ad-c417-4340-9dba-257751a3a9e2",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF42",
+    "SensorID": "111f483a-48ac-4f8f-a3d1-01f14179a0a9",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEBB",
+    "SensorID": "0f26e914-5fb6-405c-ab1b-e8edbf36a1fe",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDB3",
+    "SensorID": "aa1cb23c-bd74-4b00-b36e-8acb02ae4134",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF3B",
+    "SensorID": "dda0573e-0e79-44c0-9210-4681ebec0926",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF45",
+    "SensorID": "a7573932-1eca-4e88-9936-70d5beb5a669",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFE9",
+    "SensorID": "aa3c41ba-fade-41b3-9e10-19bb71c40e8d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDC8",
+    "SensorID": "6cab64fc-979e-4a57-b909-a5bcfeeec04e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEB8",
+    "SensorID": "7272d383-9876-4178-94fe-a864aed43d8f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDBE",
+    "SensorID": "fd84a60f-c132-4b55-9488-a975edecf7eb",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF4D",
+    "SensorID": "7c627001-f66b-4197-a3a6-7ba05ccf8e3d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDBD",
+    "SensorID": "a2ec04d9-7cc9-41da-8f76-255c62d5728d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDC1",
+    "SensorID": "90b1448d-db52-4794-99bf-4674bd381cbc",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF44",
+    "SensorID": "6b67ddcd-e859-4334-9773-9f1331cacd20",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF3D",
+    "SensorID": "79455d1d-c8b9-43d4-ac11-0c5f87f3a570",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDBB",
+    "SensorID": "45c96c2f-f389-4bdc-924f-611f8f36ae78",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDB5",
+    "SensorID": "1d9234a7-9947-4a30-ba92-86733a1b2474",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEAE",
+    "SensorID": "57ad7909-49fa-4a69-bee1-66e9dd767f58",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDB0",
+    "SensorID": "8744b125-4b15-4735-8a27-094a6785e3cf",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF4F",
+    "SensorID": "7a5bbcd3-b2c4-4fad-b030-b9a1b718629e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF39",
+    "SensorID": "e6c225d6-1fd5-4418-b2f8-389a5a2763fc",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDB6",
+    "SensorID": "b6f613fa-5466-4ae6-b4b6-96c7c94fb430",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF35",
+    "SensorID": "bb2eee09-b2f6-4f50-966f-4c11ebc7d906",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF36",
+    "SensorID": "38127979-ae8b-4ba1-b000-d85412d551d4",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEB4",
+    "SensorID": "2c585a77-47d0-491f-b698-92d8dc4b6e12",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF4E",
+    "SensorID": "1928f1cc-9838-4bdb-918d-35e53690002d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEEBC",
+    "SensorID": "bbe165f0-76b1-46d7-bac0-a06a26e6fa2e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEFED",
+    "SensorID": "9b20771d-5e3f-41bb-81e2-8fe6568a0ad9",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF4A",
+    "SensorID": "76d1e444-647e-44d3-a9b3-cc7ce07d842e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF46",
+    "SensorID": "446c4161-8da4-49d4-be47-a9b254bc6d17",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDC9",
+    "SensorID": "b220aa26-f4f8-4177-87cc-34baddb1c0cd",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF51",
+    "SensorID": "22568021-610c-435e-9664-7696d812676c",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDBC",
+    "SensorID": "d6ccde1c-8945-46fe-bea7-8f21bbb00618",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF52",
+    "SensorID": "b472b981-c529-4fdb-802a-50139a7c9f6d",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEF38",
+    "SensorID": "c704b00b-fe9b-42b6-8b52-9ce51e661720",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDD9",
+    "SensorID": "67e4aa88-3532-42c8-b8ad-b056e0df456e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDD4",
+    "SensorID": "c7397a1c-f4ec-4836-aedf-8e3aa6fd5dfe",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDDC",
+    "SensorID": "ead8bc86-58c1-4a17-825d-cae400ce7aaf",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEDE1",
+    "SensorID": "37808ebc-444c-4e71-b214-5d4ca1a08bf2",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE48",
+    "SensorID": "f009d21b-64c7-4d96-a310-3923a050b7a8",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE5B",
+    "SensorID": "8050ecec-9302-4411-9a31-6c2ef80d5d7e",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE52",
+    "SensorID": "b58d75eb-a5c5-449b-8a8a-42a674b8d176",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE5A",
+    "SensorID": "51f50b4b-ee92-4e3c-82bd-8b64b7362d6a",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE59",
+    "SensorID": "bc11f709-8ecb-44eb-ad8b-692fee9e616b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE56",
+    "SensorID": "d56d736c-b62c-46c2-bd65-603da2146034",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE4E",
+    "SensorID": "6ed8612b-e0fc-46fc-ab1d-bbca3b171cc6",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE51",
+    "SensorID": "30705441-95e9-472e-a3de-c91ce6e4d290",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE5E",
+    "SensorID": "e17fdbfe-523c-4654-a3e5-61005d5b662b",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEE57",
+    "SensorID": "062cd25c-0b16-49ab-a6ce-f2bd7bbf143f",
+    "DataType": "Motion",
+    "Customer": "Universiteit leiden"
+  },
+  {
+    "DeviceUI": "0059AC00001AEZZZ",
+    "SensorID": "3c7a2b1e-5c0a-4ef8-891d-2d1b1537f6d4",
+    "DataType": "Motion",
+    "Customer": "Uknown"
+  },
+  {
+    "DeviceUI": "0059AC00001AEZZZ",
+    "SensorID": "b565b20c-41c3-4cf7-86de-32670bd34330",
+    "DataType": "Sound",
+    "Customer": "Uknown"
+  },
+  {
+    "DeviceUI": "0059AC00001AEZZZ",
+    "SensorID": "2c76116e-02e8-4d50-857a-4a0d869db954",
+    "DataType": "Temperature",
+    "Customer": "Uknown"
+  },
+  {
+    "DeviceUI": "0059AC00001AEZZZ",
+    "SensorID": "0a5da46e-1764-427e-8a59-5a383580a5a3",
+    "DataType": "Light",
+    "Customer": "Uknown"
+  },
+  {
+    "DeviceUI": "0059AC00001AEZZZ",
+    "SensorID": "d3a95142-dc02-4f57-8db5-7d4d205f2cbe",
+    "DataType": "CarbonDioxide",
+    "Customer": "Uknown"
+  },
+  {
+    "DeviceUI": "0059AC00001AEZZZ",
+    "SensorID": "1a1aee09-673c-44c0-a1ec-e8b4b7eedd92",
+    "DataType": "Humidity",
+    "Customer": "Uknown"
+  },
+  {
+    "DeviceUI": "0059AC00001AEZZZ1",
+    "SensorID": "97d5f636-34d5-40cf-9099-1e3971ddc763",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "1234565651651651",
+    "SensorID": "6c69457d-0337-4232-92c3-c8f62caf956b",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "123456",
+    "SensorID": "0662e110-369a-4692-87fa-ffa5b975bf82",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF74C",
+    "SensorID": "533719db-a712-400a-b364-7cca3cb8a493",
+    "DataType": "ToiletCountRoom",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF74C",
+    "SensorID": "5467cb4e-a144-4ac9-9c27-9c96b52946e3",
+    "DataType": "ToiletTimeUsed",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AD7A9",
+    "SensorID": "8b174fe4-7933-4cf7-a59a-576f69ab59e2",
+    "DataType": "None",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AD7A9",
+    "SensorID": "49063c71-3f66-463c-b575-b1ab1978c1a0",
+    "DataType": "None",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF22A",
+    "SensorID": "ca019b51-cc4e-4772-aaa1-cc1a9f0af5cb",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF66E",
+    "SensorID": "6f9fdff5-9cdf-41ee-9afa-6256d81eee38",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF66E",
+    "SensorID": "798a8b24-d860-4cae-9ebf-ff90b49358d5",
+    "DataType": "None",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF346",
+    "SensorID": "9bd56069-8af8-492e-bb51-d71a40d498dc",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF62F",
+    "SensorID": "75e931d6-11a1-4c9c-8fcf-ab9f5088301e",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF6B4",
+    "SensorID": "4bdc86cf-5241-4391-9d9a-d8695e5ec4bb",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF846",
+    "SensorID": "f6ae76f5-1885-4bb8-9e9f-48391c3f3b1b",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF65A",
+    "SensorID": "f0e6084e-20b4-4edb-9bf2-5056b4e20116",
+    "DataType": "ToiletCountRoom",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF65A",
+    "SensorID": "34661322-5bf2-4e3d-8684-edf6d2ff034e",
+    "DataType": "ToiletTimeUsed",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF5BE",
+    "SensorID": "a70946c5-ca24-4ad1-ac06-707445b21f0f",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF5A4",
+    "SensorID": "9c1459db-ec55-4c06-93d8-1602b9c69e6d",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF715",
+    "SensorID": "35058b85-ab98-4401-9c7e-a9c4855d5ad6",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBD5",
+    "SensorID": "0c2249b1-d997-43ce-93e3-038db860e863",
+    "DataType": "Temperature",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBD5",
+    "SensorID": "c4dd2852-dace-43ea-8d2f-08f31ac8f499",
+    "DataType": "Humidity",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBD5",
+    "SensorID": "47b330e7-de41-4f47-a82a-45da3f00243a",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBD5",
+    "SensorID": "837f2c72-2315-46ed-9476-5458c120fa2d",
+    "DataType": "CarbonDioxide",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBD5",
+    "SensorID": "8c7e7956-446a-4ceb-b34a-f73c88e82032",
+    "DataType": "Sound",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBD5",
+    "SensorID": "f846e1eb-1855-4693-a967-fc2b76c42e1a",
+    "DataType": "Light",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF73C",
+    "SensorID": "0afeb6f4-4581-4132-b844-ecc150e3a498",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF81D",
+    "SensorID": "6c314750-2174-4361-84f5-d719efe8cdca",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF5FD",
+    "SensorID": "3a842515-87cd-4915-99f0-9da816e138ca",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF5D2",
+    "SensorID": "33bdbd46-48cc-49ab-babf-59f6789c8171",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF5CE",
+    "SensorID": "1de57f0e-7255-48e5-ac2e-8d5db4ff13dd",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF5AC",
+    "SensorID": "92660767-a078-4804-a06c-e58fa895fa47",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF51B",
+    "SensorID": "abfbb39b-f153-4117-ae0d-751f357d7576",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF6AC",
+    "SensorID": "26131200-8b1b-4457-8ed4-d3f93bb34a65",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF223",
+    "SensorID": "e3737abc-59ca-451d-8d11-5549aeff9529",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBCE",
+    "SensorID": "0db37130-0c22-4bce-a61f-1d1441cd3f53",
+    "DataType": "CarbonDioxide",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBCE",
+    "SensorID": "364cf54a-e55f-4569-b83b-7bad2b11d79e",
+    "DataType": "Temperature",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBCE",
+    "SensorID": "446a5b25-06fe-4321-b81c-ac7b7caf2e56",
+    "DataType": "Sound",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBCE",
+    "SensorID": "672fb21f-08b3-4620-8ff4-c2597f156ba7",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBCE",
+    "SensorID": "54a5ff50-a489-4800-9019-d861943c5b52",
+    "DataType": "Light",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBCE",
+    "SensorID": "2e19905a-1edc-420e-b123-da428a2e92a2",
+    "DataType": "Humidity",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBCC",
+    "SensorID": "c28c9ea5-fc89-4aa8-b7d1-321f8f6965b5",
+    "DataType": "Humidity",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBCC",
+    "SensorID": "8b3a59cf-5d40-442b-a8e5-3bd75a8714bf",
+    "DataType": "Temperature",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBCC",
+    "SensorID": "39d5642c-fbfe-4291-b581-592b6ab49079",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBCC",
+    "SensorID": "7def4734-aa29-410b-b440-957d1be823bf",
+    "DataType": "Sound",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBCC",
+    "SensorID": "71f441d8-9dc4-4293-a610-a6529a51722f",
+    "DataType": "CarbonDioxide",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AEBCC",
+    "SensorID": "410be42a-840a-4e15-95e3-d13218e80b92",
+    "DataType": "Light",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001ADFED",
+    "SensorID": "8b7b9773-6590-45bd-9d53-96f0b67783e6",
+    "DataType": "PeopleCount",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF731",
+    "SensorID": "05d2e56c-9962-4c86-a1d7-81ee23c27d84",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF729",
+    "SensorID": "052474b8-4c83-493b-9bd2-7b037b02b671",
+    "DataType": "ToiletCountRoom",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF729",
+    "SensorID": "ffb7a090-9d96-48ae-9f02-9898feffd972",
+    "DataType": "ToiletTimeUsed",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF6EE",
+    "SensorID": "aa187068-0d57-48b2-99ed-56317fd3fbaf",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "0059AC00001AF66D",
+    "SensorID": "1f5489c5-cc22-4a35-a09a-d33136db541e",
+    "DataType": "Motion",
+    "Customer": "Winvision"
+  },
+  {
+    "DeviceUI": "123",
+    "SensorID": "7f34c0fd-b78a-4fd8-a604-a9997d458a36",
+    "DataType": "Motion",
+    "Customer": "Uknown"
+  },
+  {
+    "DeviceUI": "0059AC00001AEZZZ2",
+    "SensorID": "210e0c26-983d-426a-88c8-534e45e06810",
+    "DataType": "Motion",
+    "Customer": "Uknown"
+  },
+  {
+    "DeviceUI": "1234",
+    "SensorID": "73f0a8e8-5f6d-475f-9cbc-709ae8e8b15f",
+    "DataType": "Motion",
+    "Customer": "Uknown"
+  }
+]
