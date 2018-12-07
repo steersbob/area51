@@ -8,8 +8,7 @@ set -e
 # - Docker will only be installed if it was not yet present
 # - Current user will be added to the "docker" group
 # - Docker-compose will be installed
-# - Project templates will be installed in the user home directory
-# - The Compose UI will be scheduled to start on boot
+# - A standard docker-compose.yml file matching the current architecture is installed in ./brewblox/
 #
 
 command_exists() {
