@@ -22,12 +22,14 @@ do_install() {
         echo "Docker is already installed, skipping..."
     else
         curl -sSL https://get.docker.com | sh
+        RESTART_NEEDED=true
     fi
 
     if id -nG "$USER" | grep -qw "docker"; then
         echo "$USER already belongs to the docker group, skipping..."
     else
         sudo usermod -aG docker $USER
+        RESTART_NEEDED=true
     fi
 
     sudo apt install -y git python python-pip
@@ -42,7 +44,9 @@ do_install() {
 
     echo
     echo "Installation finished."
-    echo "Please restart your system before use."
+    if [ "$RESTART_NEEDED" = true ] ; then 
+        echo "Please restart your system before use."
+    fi
     echo
 }
 
