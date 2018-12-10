@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/usr/bin/env bash
 set -e
 
 # One-click web install script for Docker and BrewBlox
@@ -12,7 +12,19 @@ set -e
 #
 
 command_exists() {
-	command -v "$@" > /dev/null 2>&1
+    command -v "$@" > /dev/null 2>&1
+}
+
+prompt() {
+    while true; do
+        read -p "$1 [Y/n]" yn
+        case "$yn" in
+            "" ) ;&
+            [Yy]* ) echo "yes"; break;;
+            [Nn]* ) echo "no"; break;;
+            * ) echo "Please answer yes or no.";;
+        esac
+    done
 }
 
 do_install() {
@@ -28,8 +40,10 @@ do_install() {
     if id -nG "$USER" | grep -qw "docker"; then
         echo "$USER already belongs to the docker group, skipping..."
     else
-        sudo usermod -aG docker $USER
-        RESTART_NEEDED=true
+        if [ $(prompt "Do you want to run Docker commands without sudo?") = yes ]; then
+            sudo usermod -aG docker $USER
+            RESTART_NEEDED=true
+        fi
     fi
 
     sudo apt install -y git python python-pip
@@ -44,7 +58,7 @@ do_install() {
 
     echo
     echo "Installation finished."
-    if [ "$RESTART_NEEDED" = true ] ; then 
+    if [ "$RESTART_NEEDED" = true ] ; then
         echo "Please restart your system before use."
     fi
     echo
