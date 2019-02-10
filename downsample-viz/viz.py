@@ -37,44 +37,56 @@ for vidx in range(len(count)):
         if scores[sidx] != best_score:
             result[vidx] = None
 
-traces = [
-    go.Scatter(
-        x=count,
-        y=[target]*len(count),
-        mode='lines',
-        name='approx_points',
-    ),
-    go.Scatter(
-        x=count,
-        y=results[0],
-        mode='lines',
-        name='realtime',
-    ),
-    go.Scatter(
-        x=count,
-        y=results[1],
-        mode='lines',
-        name='downsample_1m',
-    ),
-    go.Scatter(
-        x=count,
-        y=results[2],
-        mode='lines',
-        name='downsample_10m',
-    ),
-    go.Scatter(
-        x=count,
-        y=results[3],
-        mode='lines',
-        name='downsample_1h',
-    ),
-    go.Scatter(
-        x=count,
-        y=results[4],
-        mode='lines',
-        name='downsample_6h',
-    )
-]
+fig = {
+    'data': [
+        go.Scatter(
+            x=count,
+            y=results[0],
+            mode='lines',
+            name='realtime',
+        ),
+        go.Scatter(
+            x=count,
+            y=results[1],
+            mode='lines',
+            name='downsample_1m',
+        ),
+        go.Scatter(
+            x=count,
+            y=results[2],
+            mode='lines',
+            name='downsample_10m',
+        ),
+        go.Scatter(
+            x=count,
+            y=results[3],
+            mode='lines',
+            name='downsample_1h',
+        ),
+        go.Scatter(
+            x=count,
+            y=results[4],
+            mode='lines',
+            name='downsample_6h',
+        )
+    ],
+    'layout': {
+        'shapes': [
+            {
+                'type': 'line',
+                'x0': count[0],
+                'x1': count[-1],
+                'y0': target,
+                'y1': target,
+                'line': {
+                    'color': 'rgb(55, 128, 191)',
+                    'width': 4,
+                    'dash': 'dot',
+                },
+            },
+        ]
+    }
+}
 
 
-py.plot(traces, filename='downsampling')
+py.plot(fig, filename='downsampling')
