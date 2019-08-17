@@ -1,0 +1,69 @@
+{
+  "total_rows": 4,
+  "offset": 0,
+  "rows": [
+    {
+      "id": "dashboard-items__27176fa4-de22-1a2f-8cc0-9a7c29a7581f",
+      "key": "dashboard-items__27176fa4-de22-1a2f-8cc0-9a7c29a7581f",
+      "value": { "rev": "2-685797b1907c3a5e073129d4ad1a253f" },
+      "doc": {
+        "_id": "dashboard-items__27176fa4-de22-1a2f-8cc0-9a7c29a7581f",
+        "_rev": "2-685797b1907c3a5e073129d4ad1a253f",
+        "config": { "currentLayoutId": null, "layoutIds": [] },
+        "title": "Brewery Builder",
+        "feature": "Builder",
+        "dashboard": "01",
+        "order": 1,
+        "cols": 8,
+        "rows": 4
+      }
+    },
+    {
+      "id": "dashboards__01",
+      "key": "dashboards__01",
+      "value": { "rev": "1-8037beb6700893b676de8e36a7ed5af0" },
+      "doc": {
+        "_id": "dashboards__01",
+        "_rev": "1-8037beb6700893b676de8e36a7ed5af0",
+        "title": "Brewery",
+        "order": 1
+      }
+    },
+    {
+      "id": "layouts__4645f100-d9f3-8f8a-7bfc-1af4dc8d2286",
+      "key": "layouts__4645f100-d9f3-8f8a-7bfc-1af4dc8d2286",
+      "value": { "rev": "2-5d451687aca6298af85b24a5ef75fc89" },
+      "doc": {
+        "_id": "layouts__4645f100-d9f3-8f8a-7bfc-1af4dc8d2286",
+        "_rev": "2-5d451687aca6298af85b24a5ef75fc89",
+        "title": "Brewery Layout",
+        "width": 20,
+        "height": 15,
+        "parts": [
+          {
+            "type": "Kettle",
+            "id": "6b0f700c-bd68-56b0-0e16-4a46fa1d7328",
+            "x": null,
+            "y": null,
+            "rotate": 0,
+            "settings": {},
+            "flipped": false
+          }
+        ]
+      }
+    },
+    {
+      "id": "services__spark-one",
+      "key": "services__spark-one",
+      "value": { "rev": "10-89a7df822542955395925187e2b04d25" },
+      "doc": {
+        "_id": "services__spark-one",
+        "_rev": "10-89a7df822542955395925187e2b04d25",
+        "title": "Spark 1",
+        "order": 1,
+        "type": "Spark",
+        "config": { "expandedBlocks": { "_service": true } }
+      }
+    }
+  ]
+}
